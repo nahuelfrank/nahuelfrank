@@ -1,5 +1,5 @@
-<h1 align="center">¡Hola! 👋 Soy me llamo Nahuel</h1>
-<p align="center">Desarrollador web full stack apasionado por crear soluciones eficientes y escalables.</p>
+<h1 align="center">¡Hola! 👋 Me llamo Nahuel</h1>
+<p align="center">Soy un desarrollador web full stack apasionado por crear soluciones eficientes y escalables.</p>
 
 ---
 
