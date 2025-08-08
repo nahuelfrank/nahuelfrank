@@ -50,7 +50,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=github_dark" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nahuelfrank&show_icons=true&theme=github_dark" alt="GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=github_dark" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelfrank&layout=compact&theme=github_dark" alt="Top Langs"/>
 </p>
